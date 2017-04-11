@@ -1,1 +1,1 @@
-"# DojoAssignments" 
+This is a repository for all CodingDojo assignments.
